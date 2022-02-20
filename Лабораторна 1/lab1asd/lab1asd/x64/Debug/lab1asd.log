@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\demya\source\repos\lab1asd\lab1asd\Source.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\demya\source\repos\lab1asd\lab1asd\Source.cpp(59,11): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  lab1asd.vcxproj -> C:\Users\demya\source\repos\lab1asd\x64\Debug\lab1asd.exe
